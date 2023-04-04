@@ -3,10 +3,9 @@
 >A personal Finance Manager build in Java
 
 
-<img align="right" src="https://user-images.githubusercontent.com/98106129/229843912-5049b95a-b8fe-40e6-af40-c1db6060e02c.png" width="600" height="400">
 
 
-
+![Screenshot 2023-04-04 210043](https://user-images.githubusercontent.com/98106129/229846249-ad7e9273-dfb6-4058-8b84-f068ffa7e4dc.png)
 
 ![Screenshot 2023-04-04 210150](https://user-images.githubusercontent.com/98106129/229844264-cad96469-0013-4636-b0b8-885ee1f6907a.png)
 
