@@ -1,5 +1,7 @@
 # Finance Manager
 
+> Built in 3rd Semester of Engineering
+
 A personal Finance Manager built in Java.
 
 ![Finance Manager Screenshot](https://user-images.githubusercontent.com/98106129/229846249-ad7e9273-dfb6-4058-8b84-f068ffa7e4dc.png)
