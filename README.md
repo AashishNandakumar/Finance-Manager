@@ -1,6 +1,6 @@
 # Finance Manager
 
-> Built in 3rd Semester of Engineering alongside my teammate GPT-3
+> Built in 3rd Semester of Engineering
 
 A personal Finance Manager built in Java.
 
